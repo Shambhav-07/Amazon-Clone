@@ -1,2 +1,6 @@
 # Amazon-Clone
-Created Amazon website  Home page using html and CSS
+Hey Everyone,
+<br>
+Created Amazon website Home page using html and CSS.
+<br>
+Author Kumar Shambhav
