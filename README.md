@@ -20,6 +20,3 @@ npm start
 <br>
 <h1>Contributing</h1>
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
-<h1>License</h1>
-This project is licensed under the MIT License - see the LICENSE.md file for details.
