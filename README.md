@@ -11,11 +11,13 @@ Install dependencies: npm install
 <br>
 <h1>Usage</h1>
 To start the development server, use the following command:
-
+<br>
 bash
+<br>
 Copy code
+<br>
 npm start
-
+<br>
 <h1>Contributing</h1>
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
