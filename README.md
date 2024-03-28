@@ -1,9 +1,6 @@
 # Amazon-Clone
 
-Memory updated
-Great! Here's an example README.md content for your Amazon-Clone project:
-
-Amazon-Clone
+<h1>Amazon-Clone</h1>
 This is a clone of the Amazon website created as a project for learning purposes.
 
 Installation
