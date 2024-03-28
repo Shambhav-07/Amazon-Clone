@@ -1,22 +1,23 @@
 # Amazon-Clone
 
-<h1>Amazon-Clone</h1>
 This is a clone of the Amazon website created as a project for learning purposes.
-
-Installation
+<br>
+<h1>Installation</h1>
+<br>
 Clone the repository: git clone https://github.com/Shambhav-07/Amazon-Clone.git
-Navigate into the project directory: cd Amazon-Clone
+<br>
+Navigate into the project directory: cd Amazon-Clone <br>
 Install dependencies: npm install
-Usage
+<br>
+<h1>Usage</h1>
 To start the development server, use the following command:
 
 bash
 Copy code
 npm start
-This will start the development server and you can view the app in your browser at http://localhost:3000.
 
-Contributing
+<h1>Contributing</h1>
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-License
+<h1>License</h1>
 This project is licensed under the MIT License - see the LICENSE.md file for details.
